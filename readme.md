@@ -23,10 +23,10 @@
 ### Must-Haves 
 - [ ] uses 3 primary sources minimum
 - [ ] uses 2 secondary sources minimum
-- [ ] analyzes how the Israelites affected **society**
-- [ ] analyzes the Israelites affected different **groups within each society**
-- [ ] analyzes the Israelites affected **governing/leadership/military**
-- [ ] analyzes the Israelites affected **economy**
+- [ ] analyzes *how* the Israelites affected **society**
+- [ ] analyzes *how* the Israelites affected different **groups within each society**
+- [ ] analyzes *how* the Israelites affected **governing/leadership/military**
+- [ ] analyzes *how* the Israelites affected **economy**
 - [ ] discusses a **contemporary connection**
 
 ### Introduction (Reece Younger)
@@ -89,11 +89,9 @@
 #### Topic: Israelites
 #### Thesis
 > A thesis statement is a sentence in which you state an argument about a topic and then describe, briefly, how you will prove your arguement.
-    >> What are we arguing?
->
-    >> With what evidence will be used to prove this?
->
-    >> Should be revised as your further refine your evidence and arguments. New evidence often requires you to change your thesis.
+> * What are we arguing?
+> * With what evidence will be used to prove this?
+> * Should be revised as you further refine your evidence and arguments. New evidence often requires you to change your thesis.
 
 #### Conclusion: 
 
